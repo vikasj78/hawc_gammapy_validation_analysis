@@ -1,0 +1,1 @@
+python make_hawc_dataset.py --ra 286.91 --dec 6.32 --indir /lfs/l2/hawc/hawc-gammapy-verification/hawc_resources/data/eHWCJ1907+063 --outdir /lfs/l7/hawc/hawc-gammapy-verification/extended_source/gammapy_dataset_j1908_vikas
